@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"secret"
+			],
+			[
+				"b",
+				"button	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tweet/views.py",
+			"settings":
+			{
+				"buffer_size": 4746,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "twitter_post/urls.py",
+			"settings":
+			{
+				"buffer_size": 929,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 537.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/parvez/Local Drive/WorkSpace/web/twitter_post",
+		"/media/parvez/Local Drive/WorkSpace/web/twitter_post/tweet",
+		"/media/parvez/Local Drive/WorkSpace/web/twitter_post/twitter_post",
+		"/media/parvez/Local Drive/WorkSpace/web/ThirdAuth",
+		"/media/parvez/Local Drive/WorkSpace/web/ThirdAuth/thirdauth/migrations"
+	],
+	"file_history":
+	[
+		"/media/parvez/Local Drive/WorkSpace/web/twitter_post/tweet/forms.py",
+		"/media/parvez/Local Drive/WorkSpace/web/twitter_post/tweet/models.py",
+		"/media/parvez/Local Drive/WorkSpace/web/twitter_post/tweet/tweetscript.py",
+		"/media/parvez/Local Drive/WorkSpace/web/twitter_post/twitter_post/urls.py",
+		"/media/parvez/Local Drive/WorkSpace/web/twitter_post/tweet/admin.py",
+		"/media/parvez/Local Drive/WorkSpace/web/twitter_post/tweet/templates/base.html",
+		"/media/parvez/Local Drive/WorkSpace/web/twitter_post/twitter_post/settings.py",
+		"/media/parvez/Local Drive/WorkSpace/web/twitter_post/tweet/views.py",
+		"/media/parvez/Local Drive/WorkSpace/web/twitter_post/manage.py",
+		"/media/parvez/Local Drive/WorkSpace/web/twitter_post/tweet/templates/home.html",
+		"/media/parvez/Local Drive/WorkSpace/web/twitter_post/tweet/tweet.py",
+		"/media/parvez/Local Drive/WorkSpace/web/ThirdAuth/manage.py",
+		"/media/parvez/Local Drive/WorkSpace/web/ThirdAuth/templates/home.html",
+		"/media/parvez/Local Drive/WorkSpace/web/ThirdAuth/thirdauth/views.py",
+		"/media/parvez/Local Drive/WorkSpace/web/E-commerce/eshop/catalogue/models.py",
+		"/media/parvez/Local Drive/WorkSpace/web/E-commerce/django-oscar/src/oscar/apps/catalogue/models.py",
+		"/media/parvez/Local Drive/WorkSpace/web/E-commerce/eshop/eshop/settings.py",
+		"/media/parvez/Local Drive/WorkSpace/web/E-commerce/eshop/manage.py",
+		"/media/parvez/Local Drive/WorkSpace/web/ThirdAuth/templates/base.html",
+		"/media/parvez/Local Drive/WorkSpace/web/ThirdAuth/thirdauth/settings.py",
+		"/media/parvez/Local Drive/WorkSpace/web/ThirdAuth/thirdauth/models.py",
+		"/media/parvez/Local Drive/WorkSpace/web/ThirdAuth/thirdauth/urls.py",
+		"/media/parvez/Local Drive/WorkSpace/web/Buffer/mysite/manage.py",
+		"/media/parvez/Local Drive/WorkSpace/web/Buffer/mysite/sublime-project",
+		"/home/parvez/Work/jquery/Index.html",
+		"/home/parvez/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/parvez/Desktop/bluetooth-startup",
+		"/home/parvez/Downloads/web/index.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Internationalization",
+			"');\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tweet/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4746,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								523,
+								523
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "twitter_post/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 929,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								929,
+								929
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tweet.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
