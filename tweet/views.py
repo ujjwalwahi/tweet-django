@@ -35,9 +35,9 @@ def twitterAuthenticate(request):
         try:
             verifier = request.GET.get('oauth_verifier')            
             token = request.GET.get('oauth_token')            
-            auth.request_token = token
+            #auth.request_token = token
             try:
-                auth.set_access_token(verifier)
+                auth.set_access_token(token, verifier)
                 response = 'authenticate success'
             except tweepy.TweepError as e:
                 print 'Error! Failed to get access token.'           
